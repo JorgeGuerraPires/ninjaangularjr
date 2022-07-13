@@ -300,6 +300,7 @@ firebase/auth
 firebase/firestore
 
 ideacodinglab
+MIT
 
 rxjs
 Apache-2.0
