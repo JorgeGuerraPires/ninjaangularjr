@@ -372,6 +372,12 @@ firebase/auth
 
 firebase/firestore
 
+highcharts
+https://www.highcharts.com/license
+
+ideacodinglab
+MIT
+
 regenerator-runtime
 MIT
 MIT License
